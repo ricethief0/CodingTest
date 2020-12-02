@@ -1,32 +1,11 @@
-# Prerequisites
-*.d
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+/codingTest_Project/.vs/codingTest_Project/v16/ipch/AutoPCH
+/codingTest_Project/.vs/codingTest_Project/v16/Browse.VC.opendb
+/codingTest_Project/.vs/codingTest_Project/v16/Browse.VC.db-wal
+/codingTest_Project/.vs/codingTest_Project/v16/Browse.VC.db-shm
+/codingTest_Project/.vs/codingTest_Project/v16/Browse.VC.db
+/codingTest_Project/.vs/codingTest_Project/v16/.suo
+/codingTest_Project/.vs/codingTest_Project/v16
