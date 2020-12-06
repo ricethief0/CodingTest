@@ -20,7 +20,6 @@ void 소수()
 	{
 		for (int i = 2; i <= current; i++)
 		{
-			
 			if(i == current)
 			{
 				sum += current;
@@ -33,19 +32,15 @@ void 소수()
 			}
 			if (current % i == 0)
 			{
-
 				break;
 			}
 		}
 		current++;
-
 	}
 	if (min == 0)
 		cout << -1;
 	else
 	{
-
-
 	cout << sum << "\n";
 	cout << min << "\n";
 	}
