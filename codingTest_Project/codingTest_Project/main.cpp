@@ -1,12 +1,10 @@
 #pragma once
 
-
 #include "Header.h"
 
 int main()
 {
+	블랙잭();
 	
-	네번째점();
-
 	return 0;
 }
