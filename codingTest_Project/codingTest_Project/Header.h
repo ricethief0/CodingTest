@@ -12,4 +12,6 @@
 //void 팩토리얼();
 //void 피보나치수5();
 //void 블랙잭();
-void 덩치();
+//void 덩치();
+//void linkedList();
+void 수정렬하기();

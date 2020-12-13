@@ -54,6 +54,12 @@
     <ClCompile Include="7568.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="linkedlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2750.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
