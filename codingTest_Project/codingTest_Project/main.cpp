@@ -1,10 +1,16 @@
 #pragma once
-
+//#include <iostream>
+//#include <fstream>
 #include "Header.h"
+
+using namespace std;
+
+
 
 int main()
 {
-	수정렬하기();
-	
+	기능개발();
+
+
 	return 0;
 }

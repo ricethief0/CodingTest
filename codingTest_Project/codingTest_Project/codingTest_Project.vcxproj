@@ -152,8 +152,12 @@
     <ClCompile Include="4948.cpp" />
     <ClCompile Include="7568.cpp" />
     <ClCompile Include="9020.cpp" />
+    <ClCompile Include="DeepCopy.cpp" />
+    <ClCompile Include="kakaoCrane.cpp" />
     <ClCompile Include="linkedlist.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Rasterise.cpp" />
+    <ClCompile Include="기능개발.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />

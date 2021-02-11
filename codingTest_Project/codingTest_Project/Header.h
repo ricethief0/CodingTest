@@ -14,4 +14,8 @@
 //void 블랙잭();
 //void 덩치();
 //void linkedList();
-void 수정렬하기();
+//void 수정렬하기();
+//void 레스터라이즈();
+//void 깊은복사();
+//void 카카오인형뽑기();
+void 기능개발();
