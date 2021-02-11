@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	기능개발();
+	프린터();
 
 
 	return 0;
