@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	프린터();
+	더맵게();
 
 
 	return 0;
