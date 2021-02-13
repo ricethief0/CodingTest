@@ -78,6 +78,9 @@
     <ClCompile Include="더맵게.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="다리를지나는트럭.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">

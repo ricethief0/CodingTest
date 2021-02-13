@@ -158,6 +158,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Rasterise.cpp" />
     <ClCompile Include="기능개발.cpp" />
+    <ClCompile Include="다리를지나는트럭.cpp" />
     <ClCompile Include="더맵게.cpp" />
     <ClCompile Include="프린터.cpp" />
   </ItemGroup>
