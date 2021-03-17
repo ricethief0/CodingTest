@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	다리를지나가는트럭();
+	미로탐색();
 
 
 	return 0;
