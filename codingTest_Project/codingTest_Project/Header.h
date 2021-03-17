@@ -26,4 +26,5 @@
 //void BFS();
 //void 큰수만들기();
 //void 미로탐색();
-void DFS와BFS();
+//void DFS와BFS();
+void 바이러스();

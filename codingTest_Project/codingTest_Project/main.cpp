@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	DFS와BFS();
+	바이러스();
 
 
 	return 0;
