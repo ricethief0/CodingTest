@@ -25,4 +25,5 @@
 //void 소수찾기2();
 //void BFS();
 //void 큰수만들기();
-void 미로탐색();
+//void 미로탐색();
+void DFS와BFS();

@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	미로탐색();
+	DFS와BFS();
 
 
 	return 0;
